@@ -29,7 +29,7 @@ export default function Moto() {
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-6"
           }`}
         >
-          "Dari Ladang ke Meja Anda, dengan Cinta dan Keberlanjutan"
+          &quot;Dari Ladang ke Meja Anda, dengan Cinta dan Keberlanjutan&quot;
         </h2>
 
         <p
