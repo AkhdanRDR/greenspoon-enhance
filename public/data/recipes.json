@@ -1,0 +1,645 @@
+[
+  {
+    "id": "1",
+    "name": "Sup Tomat Segar",
+    "image": "/images/sup-tomat.jpg",
+    "ingredients": [
+      "4 buah tomat matang, potong besar",
+      "1 siung bawang putih, cincang",
+      "1/2 buah bawang bombay, cincang",
+      "500 ml kaldu sayur/ayam",
+      "1 sdm minyak zaitun",
+      "Garam dan lada secukupnya",
+      "Gula pasir sejumput",
+      "Daun basil/daun seledri untuk taburan"
+    ],
+    "instructions": "Tumis bawang bombay dan bawang putih dengan minyak hingga harum. Masukkan tomat, masak sampai layu. Tuang kaldu, beri garam, lada, dan sedikit gula. Masak 10–15 menit, blender kalau mau halus, didihkan sebentar. Sajikan hangat dengan taburan daun basil/seledri.",
+    "prepTime": "10 menit",
+    "cookTime": "15 menit",
+    "servings": 2,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "2",
+    "name": "Nasi Goreng Spesial",
+    "image": "/images/nasi-goreng.jpg",
+    "ingredients": [
+      "400 g nasi putih dingin",
+      "3 siung bawang putih, cincang",
+      "1 butir telur",
+      "3 sdm kecap manis",
+      "1 sdm saus tiram (opsional)",
+      "2 sdm minyak untuk menumis",
+      "Garam, lada, dan cabai sesuai selera",
+      "Irisan daun bawang dan acar sebagai pelengkap"
+    ],
+    "instructions": "Panaskan minyak, tumis bawang putih sampai harum. Masukkan telur dan orak-arik. Tambahkan nasi, tekan-tekan agar rapi. Bumbui kecap manis, saus tiram, garam, lada, dan cabai. Aduk rata sampai nasi panas dan bumbu meresap. Sajikan dengan daun bawang dan acar.",
+    "prepTime": "10 menit",
+    "cookTime": "10 menit",
+    "servings": 2,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "3",
+    "name": "Sate Ayam Madura (bumbu kacang)",
+    "image": "/images/sate-ayam.jpg",
+    "ingredients": [
+      "500 g dada ayam, potong dadu",
+      "10–15 tusuk sate",
+      "2 siung bawang putih, haluskan",
+      "2 sdm kecap manis",
+      "1 sdm minyak untuk marinasi",
+      "Garam dan lada secukupnya",
+      "250 g kacang tanah sangrai (untuk bumbu kacang)",
+      "2 siung bawang merah, 1 siung bawang putih (untuk bumbu kacang)",
+      "1–2 sdm gula merah, 1 sdm air asam/sedikit jeruk nipis"
+    ],
+    "instructions": "Lumuri potongan ayam dengan bawang putih, kecap, minyak, garam, dan lada; diamkan 20–30 menit. Tusuk ayam, panggang di atas arang atau teflon hingga matang. Untuk bumbu kacang: haluskan kacang sangrai dengan bawang, gula merah, garam, air, dan sedikit kecap; masak sampai mengental. Sajikan sate dengan bumbu kacang dan lontong.",
+    "prepTime": "20 menit",
+    "cookTime": "20 menit",
+    "servings": 3,
+    "difficulty": "Sedang"
+  },
+  {
+    "id": "4",
+    "name": "Gado-Gado",
+    "image": "/images/gado-gado.jpg",
+    "ingredients": [
+      "350 g kentang, kukus dan potong",
+      "200 g tahu, goreng",
+      "200 g tempe, goreng",
+      "100 g tauge, rebus sebentar",
+      "200 g kol, iris dan rebus",
+      "2 buah timun, iris",
+      "Daun selada, tomat, sesuai selera",
+      "Bumbu kacang: kacang tanah, gula merah, air asam, terasi, bawang putih"
+    ],
+    "instructions": "Susun sayuran, tahu, tempe, dan kentang di piring. Buat bumbu kacang: haluskan dan masak kacang dengan gula merah, air asam, terasi dan koreksi rasa. Siram bumbu ke semua bahan, taburi bawang goreng dan kerupuk sebagai pelengkap.",
+    "prepTime": "20 menit",
+    "cookTime": "15 menit",
+    "servings": 4,
+    "difficulty": "Sedang"
+  },
+  {
+    "id": "5",
+    "name": "Rendang Daging Padang",
+    "image": "/images/rendang-daging.jpg",
+    "ingredients": [
+      "1 kg daging sapi, potong sesuai selera",
+      "500 ml santan kental + 500 ml santan encer",
+      "10 siung bawang merah, 4 siung bawang putih",
+      "5 butir kemiri, 5 buah cabai merah",
+      "Serai, daun jeruk, daun kunyit",
+      "Garam, gula merah secukupnya"
+    ],
+    "instructions": "Haluskan bumbu (bawang, kemiri, cabai, kunyit, jahe). Tumis bumbu hingga harum, masukkan daging dan aduk sampai bumbu meresap. Tambah santan sedikit demi sedikit, tambahkan serai dan daun. Masak dengan api kecil hingga santan menyusut dan daging empuk (bisa 2–3 jam). Koreksi rasa, biarkan bumbu mengering dan menghitam sedikit khas rendang.",
+    "prepTime": "30 menit",
+    "cookTime": "150 menit",
+    "servings": 6,
+    "difficulty": "Sulit"
+  },
+  {
+    "id": "6",
+    "name": "Ayam Goreng Kremes",
+    "image": "/images/ayam-goreng-kremes.jpg",
+    "ingredients": [
+      "1 ekor ayam, potong sesuai selera",
+      "2 siung bawang putih, haluskan",
+      "1 sdm ketumbar bubuk",
+      "Garam, gula secukupnya",
+      "Minyak untuk menggoreng",
+      "Kremes: tepung beras, kaldu/santan, bawang putih goreng"
+    ],
+    "instructions": "Ungkep ayam dengan bumbu halus, serai, daun salam hingga empuk. Angkat dan tiriskan. Goreng ayam hingga kulit garing. Untuk kremes, campur tepung beras dengan sisa kaldu/air dari ungkep, tambahkan bawang goreng; goreng tipis-tipis hingga mengembang dan renyah. Sajikan ayam dengan kremes.",
+    "prepTime": "20 menit",
+    "cookTime": "60 menit",
+    "servings": 4,
+    "difficulty": "Sedang"
+  },
+  {
+    "id": "7",
+    "name": "Soto Ayam Kuah Bening",
+    "image": "/images/soto-ayam.jpg",
+    "ingredients": [
+      "500 g ayam (paha/dada)",
+      "2 liter air",
+      "2 batang serai, geprek",
+      "3 lembar daun salam, 3 lembar daun jeruk",
+      "Bumbu: bawang putih, bawang merah, kunyit (halus)",
+      "Tomat, daun bawang, seledri, bawang goreng untuk pelengkap"
+    ],
+    "instructions": "Rebus ayam dengan serai, daun salam, dan daun jeruk sampai empuk; suwir dagingnya. Tumis bumbu halus sebentar, masukkan ke panci kaldu, koreksi rasa. Sajikan dengan suwiran ayam, irisan tomat, daun bawang, seledri, dan bawang goreng.",
+    "prepTime": "15 menit",
+    "cookTime": "45 menit",
+    "servings": 4,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "8",
+    "name": "Bakso Sapi Kuah",
+    "image": "/images/bakso-sapi.jpg",
+    "ingredients": [
+      "500 g daging sapi giling",
+      "100 g tepung tapioka",
+      "2 siung bawang putih, haluskan",
+      "1 butir putih telur",
+      "Garam, merica secukupnya",
+      "Kuah: tulang sapi/tulang iga, bawang goreng, daun bawang"
+    ],
+    "instructions": "Campur daging, tapioka, bawang putih, putih telur, garam dan merica; uleni sampai kalis. Bentuk bulat dan rebus sampai mengapung. Untuk kuah, rebus tulang/tetelan untuk kaldu, saring, tambahkan garam dan lada. Sajikan bakso dengan kuah panas, bawang goreng, dan daun bawang.",
+    "prepTime": "30 menit",
+    "cookTime": "30 menit",
+    "servings": 4,
+    "difficulty": "Sedang"
+  },
+  {
+    "id": "9",
+    "name": "Sayur Asem Betawi",
+    "image": "/images/sayur-asem.jpg",
+    "ingredients": [
+      "100 g pepaya muda, potong",
+      "1 buah jagung manis, potong",
+      "100 g labu siam, potong",
+      "75 g kacang tanah",
+      "50 g melinjo dan daun melinjo",
+      "Bumbu: bawang merah, bawang putih, kemiri, asam jawa, lengkuas, daun salam"
+    ],
+    "instructions": "Rebus air, masukkan kacang tanah dan sayuran yang lebih keras (jagung, nangka). Tumis bumbu halus sebentar lalu masukkan ke panci. Tambahkan pepaya, labu, melinjo. Beri asam jawa, garam dan gula secukupnya. Masak sampai sayur empuk dan rasa segar asam terasa.",
+    "prepTime": "20 menit",
+    "cookTime": "40 menit",
+    "servings": 4,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "10",
+    "name": "Mie Goreng Jawa",
+    "image": "/images/mie-goreng-jawa.jpg",
+    "ingredients": [
+      "1 bungkus mie telur (direbus dan tiriskan)",
+      "2 butir telur",
+      "2 siung bawang putih, cincang",
+      "2 sdm kecap manis",
+      "Sayuran: kol, sawi, daun bawang",
+      "Garam, merica, gula secukupnya"
+    ],
+    "instructions": "Tumis bawang putih dan telur orak-arik. Masukkan sayuran, lalu mie. Bumbui dengan kecap manis, garam, merica, dan gula. Aduk sampai merata dan matang. Sajikan hangat.",
+    "prepTime": "10 menit",
+    "cookTime": "15 menit",
+    "servings": 2,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "11",
+    "name": "Sambal Terasi",
+    "image": "/images/sambal-terasi.jpg",
+    "ingredients": [
+      "8 buah cabai merah keriting",
+      "10 cabai rawit (sesuai selera pedas)",
+      "3 siung bawang putih, 5 bawang merah",
+      "1 buah tomat (opsional)",
+      "1 sdm terasi (bakar sebentar)",
+      "Garam dan gula merah secukupnya",
+      "Perasan jeruk limau/jeruk nipis sedikit"
+    ],
+    "instructions": "Bakar/ulek terasi sebentar. Haluskan cabai, bawang, tomat dan terasi (diulek atau blender kasar). Tambahkan garam dan gula merah, koreksi rasa. Bisa disajikan mentah atau digoreng sebentar dengan sedikit minyak hingga matang.",
+    "prepTime": "10 menit",
+    "cookTime": "0–5 menit (opsional digoreng)",
+    "servings": 6,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "12",
+    "name": "Capcay Sayur",
+    "image": "/images/capcay.jpg",
+    "ingredients": [
+      "Wortel, kembang kol, buncis, sawi, sesuai selera",
+      "3 siung bawang putih, cincang",
+      "100 g jamur (opsional)",
+      "1 sdm saus tiram",
+      "1 sdm kecap ikan (opsional)",
+      "Larutan tepung maizena untuk mengental",
+      "Garam dan gula secukupnya"
+    ],
+    "instructions": "Tumis bawang putih, masukkan wortel dan sayuran yang keras, lalu tambahkan sayuran lembut. Masukkan jamur, saus tiram, kecap ikan, garam dan gula. Tambah sedikit air, masak hingga sayur matang, koreksi rasa, tuang larutan maizena agar kuah mengental. Sajikan hangat.",
+    "prepTime": "10 menit",
+    "cookTime": "15 menit",
+    "servings": 3,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "13",
+    "name": "Pepes Ikan (Tenggiri)",
+    "image": "/images/pepes-ikan.jpg",
+    "ingredients": [
+      "500 g ikan tenggiri fillet, cincang/iris",
+      "8 siung bawang merah, 5 siung bawang putih",
+      "1 ruas kunyit, jahe, daun kemangi",
+      "Serai, daun salam, daun jeruk",
+      "Garam, gula pasir, lada",
+      "Daun pisang untuk membungkus"
+    ],
+    "instructions": "Haluskan bumbu, campur dengan ikan dan daun kemangi. Bungkus dengan daun pisang, sematkan. Kukus atau panggang pepes selama 30–45 menit sampai matang. Sajikan hangat.",
+    "prepTime": "15 menit",
+    "cookTime": "45 menit",
+    "servings": 4,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "14",
+    "name": "Tahu Tek (Surabaya)",
+    "image": "/images/tahu-tek.jpg",
+    "ingredients": [
+      "300 g tahu, potong dan goreng",
+      "100 g tauge, rebus sebentar",
+      "2 buah kentang kecil, kukus dan potong",
+      "Bumbu kacang (kacang tanah, bawang, cabai, gula merah)",
+      "Kecap manis, kerupuk, bawang goreng"
+    ],
+    "instructions": "Susun tahu, kentang, tauge dan irisan timun. Siram bumbu kacang yang sudah dihaluskan dan diencerkan. Tambah kecap manis sesuai selera, taburi bawang goreng dan kerupuk.",
+    "prepTime": "15 menit",
+    "cookTime": "10 menit",
+    "servings": 3,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "15",
+    "name": "Pecel Lele (Sambal Lamongan)",
+    "image": "/images/pecel-lele.jpg",
+    "ingredients": [
+      "4 ekor lele, bersihkan",
+      "Bumbu marinasi: bawang putih, kunyit, garam, ketumbar (halus)",
+      "Minyak untuk menggoreng",
+      "Sambal pecel lele: cabe rawit, bawang merah, tomat, terasi, gula",
+      "Irisan timun dan nasi putih"
+    ],
+    "instructions": "Lumuri lele dengan bumbu marinasi, goreng hingga krispi. Haluskan bahan sambal dan koreksi rasa, atau goreng sambal sebentar untuk versi matang. Sajikan lele goreng dengan sambal, nasi, dan lalapan.",
+    "prepTime": "15 menit",
+    "cookTime": "20 menit",
+    "servings": 4,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "16",
+    "name": "Gulai Ikan Santan",
+    "image": "/images/gulai-ikan.jpg",
+    "ingredients": [
+      "500 g ikan (patin, tongkol, atau kakap), potong",
+      "400 ml santan",
+      "Bumbu halus: bawang merah, bawang putih, kunyit, kemiri, ketumbar",
+      "Serai, daun kunyit/daun jeruk",
+      "Garam dan gula secukupnya"
+    ],
+    "instructions": "Tumis bumbu halus sampai harum, masukkan serai dan daun. Tuang santan encer, masak perlahan lalu masukkan ikan. Masak dengan api kecil sampai ikan matang dan kuah mengental. Koreksi rasa, sajikan dengan nasi hangat.",
+    "prepTime": "15 menit",
+    "cookTime": "30 menit",
+    "servings": 4,
+    "difficulty": "Sedang"
+  },
+  {
+    "id": "17",
+    "name": "Opor Ayam",
+    "image": "/images/opor-ayam.jpg",
+    "ingredients": [
+      "1 ekor ayam, potong",
+      "400 ml santan",
+      "Bumbu halus: bawang merah, bawang putih, kemiri, kunyit",
+      "Serai, daun salam, garam, gula sedikit"
+    ],
+    "instructions": "Tumis bumbu halus sampai harum, masukkan ayam dan aduk rata. Tuang santan dan tambahkan serai serta daun salam. Masak dengan api kecil hingga ayam empuk dan bumbu meresap. Sajikan bersama ketupat/nasi.",
+    "prepTime": "15 menit",
+    "cookTime": "40 menit",
+    "servings": 6,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "18",
+    "name": "Martabak Telur (mini)",
+    "image": "/images/martabak-telur.jpg",
+    "ingredients": [
+      "Kulit lumpia atau adonan tipis (terigu+air+garam)",
+      "3 butir telur, kocok",
+      "Daun bawang, iris",
+      "Isian opsional: daging cincang atau sosis, bawang goreng",
+      "Garam dan merica"
+    ],
+    "instructions": "Siapkan kulit atau celupkan adonan tipis di teflon panas. Tumis isian sedikit, tuang telur kocok, tambahkan daun bawang. Lipat dan goreng sampai kecokelatan. Potong-potong dan sajikan dengan acar atau saus cabai.",
+    "prepTime": "15 menit",
+    "cookTime": "15 menit",
+    "servings": 4,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "19",
+    "name": "Klepon (kue tradisional)",
+    "image": "/images/klepon.jpg",
+    "ingredients": [
+      "250 g tepung ketan",
+      "200 ml air hangat (sesuaikan)",
+      "Gula merah serut secukupnya",
+      "Kelapa parut untuk baluran, garam sejumput",
+      "Pasta pandan/daun pandan (opsional)"
+    ],
+    "instructions": "Campur tepung ketan dengan air hangat sampai bisa dipulung. Ambil sedikit adonan, pipihkan, isi gula merah, bulatkan. Rebus klepon hingga mengapung, angkat dan gulingkan ke kelapa parut berbumbu garam sejumput. Sajikan.",
+    "prepTime": "20 menit",
+    "cookTime": "15 menit",
+    "servings": 12,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "20",
+    "name": "Bubur Ayam Sederhana",
+    "image": "/images/bubur-ayam.jpg",
+    "ingredients": [
+      "200 g beras (cuci)",
+      "1.5–2 liter air kaldu ayam",
+      "2 paha ayam (rebus lalu suwir)",
+      "Jahe geprek, daun salam, serai",
+      "Garam, merica, minyak wijen sedikit",
+      "Pelengkap: cakwe, kecap, bawang goreng, irisan daun bawang"
+    ],
+    "instructions": "Rebus beras dengan kaldu ayam dan bumbu (jahe, serai, daun salam) sampai jadi bubur lembut. Siapkan suwiran ayam untuk topping. Sajikan bubur dengan suwiran ayam, cakwe, kecap, bawang goreng, dan daun bawang.",
+    "prepTime": "10 menit",
+    "cookTime": "30 menit",
+    "servings": 3,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "21",
+    "name": "Mie Kocok Bandung",
+    "image": "/images/mie-kocok.jpg",
+    "ingredients": [
+      "Mie pipih kuning",
+      "Kikil sapi (tendon), iris tipis",
+      "Kuah kaldu sapi bening",
+      "Tauge, daun seledri, bakso (opsional)",
+      "Bawang merah goreng, sambal, kecap manis"
+    ],
+    "instructions": "Masak kikil dalam kaldu hingga empuk. Rebus mie kocok dalam air mendidih sambil digoyang. Taruh mie di mangkuk, tuang kuah kaldu dan kikil. Taburi tauge, seledri dan bawang goreng. Sajikan dengan sambal dan kecap manis.",
+    "prepTime": "15 menit",
+    "cookTime": "45 menit",
+    "servings": 4,
+    "difficulty": "Sedang"
+  },
+  {
+    "id": "22",
+    "name": "Nagasari",
+    "image": "/images/nagasari.jpg",
+    "ingredients": [
+      "Tepung beras, santan, gula pasir",
+      "Pisang (pisang raja), daun pisang"
+    ],
+    "instructions": "Campur tepung beras, santan, dan gula jadi adonan. Potong pisang. Tuang adonan di daun pisang, beri potongan pisang, bungkus. Kukus selama 20–30 menit hingga matang.",
+    "prepTime": "15 menit",
+    "cookTime": "30 menit",
+    "servings": 6,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "23",
+    "name": "Buntil (Jawa Tengah/East Java)",
+    "image": "/images/buntil.jpg",
+    "ingredients": [
+      "Daun pepaya/labu/taro",
+      "Kelapa parut, teri, bumbu (bawang merah, bawang putih, kunyit)",
+      "Santan, daun salam"
+    ],
+    "instructions": "Campur kelapa parut dengan teri dan bumbu. Bungkus dengan daun, sematkan. Rebus dalam santan bersama daun salam sampai matang dan meresap.",
+    "prepTime": "20 menit",
+    "cookTime": "40 menit",
+    "servings": 4,
+    "difficulty": "Sedang"
+  },
+  {
+    "id": "24",
+    "name": "Iga Penyet Surabaya",
+    "image": "/images/iga-penyet.jpg",
+    "ingredients": [
+      "Iga sapi, garam, bawang putih",
+      "Sambal terasi",
+      "Lalap, nasi putih"
+    ],
+    "instructions": "Goreng iga hingga matang. Sajikan iga di atas sambal terasi, lalu tekan/semi-penyet agar sambal meresap. Tambah lalap dan nasi.",
+    "prepTime": "10 menit",
+    "cookTime": "30 menit",
+    "servings": 3,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "25",
+    "name": "Ayam Woku Manado",
+    "image": "/images/ayam-woku.jpg",
+    "ingredients": [
+      "Ayam potong",
+      "Bumbu Manado: serai, daun kunyit, kemangi, bawang merah, bawang putih, cabai, jahe",
+      "Garam, gula, air"
+    ],
+    "instructions": "Tumis bumbu woku hingga harum. Masukkan ayam, masak sampai bumbu meresap dan matang. Tambahkan kemangi saat hampir matang.",
+    "prepTime": "20 menit",
+    "cookTime": "30 menit",
+    "servings": 4,
+    "difficulty": "Sedang"
+  },
+  {
+    "id": "26",
+    "name": "Tahu Kupat",
+    "image": "/images/tahu-kupat.jpg",
+    "ingredients": [
+      "Kupat (ketupat), tahu goreng",
+      "Tauge, kecap manis, sambal kacang, bawang goreng"
+    ],
+    "instructions": "Potong ketupat dan tahu. Susun dengan tauge. Siram kecap manis dan sambal kacang. Taburi bawang goreng sebelum disaji.",
+    "prepTime": "15 menit",
+    "cookTime": "0 menit",
+    "servings": 3,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "27",
+    "name": "Kari Bebek Aceh",
+    "image": "/images/kari-bebek.jpg",
+    "ingredients": [
+      "Bebek potong",
+      "Rempah kari Aceh (bawang merah, bawang putih, cabai, ketumbar, jintan, kayu manis)",
+      "Santan, serai, daun kunyit"
+    ],
+    "instructions": "Tumis bumbu kari hingga harum. Masukkan bebek, aduk merata. Tuang santan dan daun, masak dengan api kecil hingga bebek empuk dan bumbu meresap.",
+    "prepTime": "20 menit",
+    "cookTime": "60 menit",
+    "servings": 4,
+    "difficulty": "Sulit"
+  },
+  {
+    "id": "28",
+    "name": "Gudeg Jogja (sederhana)",
+    "image": "/images/gudeg.jpg",
+    "ingredients": [
+      "Nangka muda, santan, gula jawa, bawang merah putih",
+      "Daun jati (opsional)"
+    ],
+    "instructions": "Rebus nangka muda dengan santan, gula jawa, dan bumbu selama beberapa jam hingga mengental dan gula meresap. Tambahkan daun jati untuk warna cokelat.",
+    "prepTime": "30 menit",
+    "cookTime": "240 menit",
+    "servings": 5,
+    "difficulty": "Sulit"
+  },
+  {
+    "id": "29",
+    "name": "Semur Daging",
+    "image": "/images/semur-daging.jpg",
+    "ingredients": [
+      "Daging sapi, kecap manis, bawang merah, bawang putih, pala, ketumbar",
+      "Air, garam, gula"
+    ],
+    "instructions": "Tumis bawang, masukkan daging dan kecap, tambah rempah dan air. Masak dengan api kecil hingga daging empuk dan kuah mengental.",
+    "prepTime": "15 menit",
+    "cookTime": "90 menit",
+    "servings": 4,
+    "difficulty": "Sedang"
+  },
+  {
+    "id": "30",
+    "name": "Sayur Lodeh",
+    "image": "/images/sayur-lodeh.jpg",
+    "ingredients": [
+      "Sayuran (labu, terong, kacang panjang, tempe)",
+      "Santan, bumbu halus (bawang, terasi, cabai), daun salam"
+    ],
+    "instructions": "Tumis bumbu halus, masukkan santan dan sayuran, masak hingga matang dan kuah mulai mengental. Koreksi rasa.",
+    "prepTime": "15 menit",
+    "cookTime": "25 menit",
+    "servings": 4,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "31",
+    "name": "Kue Pukis",
+    "image": "/images/pukis.jpg",
+    "ingredients": [
+      "Tepung terigu, gula, telur, santan, ragi",
+      "Margarin leleh"
+    ],
+    "instructions": "Campur semua bahan jadi adonan cair, diamkan sampai mengembang. Tuang ke cetakan pukis panas, panggang hingga matang dan keemasan.",
+    "prepTime": "20 menit",
+    "cookTime": "15 menit",
+    "servings": 10,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "32",
+    "name": "Bubur Ketan Hitam",
+    "image": "/images/bubur-ketan-hitam.jpg",
+    "ingredients": [
+      "Ketan hitam, gula merah, santan, daun pandan"
+    ],
+    "instructions": "Rebus ketan hitam dengan daun pandan dan air hingga empuk. Tambahkan santan dan gula merah, masak hingga mengental. Sajikan hangat atau dingin.",
+    "prepTime": "10 menit",
+    "cookTime": "40 menit",
+    "servings": 4,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "33",
+    "name": "Lontong Sayur Betawi",
+    "image": "/images/lontong-sayur.jpg",
+    "ingredients": [
+      "Lontong, labu siam, wortel, santan, bumbu halus",
+      "Telur rebus, bawang goreng"
+    ],
+    "instructions": "Masak sayur dengan santan dan bumbu, tambahkan labu dan wortel. Sajikan bersama lontong, telur rebus, dan bawang goreng.",
+    "prepTime": "20 menit",
+    "cookTime": "30 menit",
+    "servings": 4,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "34",
+    "name": "Mangut Ikan Asap",
+    "image": "/images/mangut-ikan-asap.jpg",
+    "ingredients": [
+      "Ikan asap, terong, santan, sambal, bumbu halus"
+    ],
+    "instructions": "Tumis bumbu halus, masukkan santan dan ikan asap. Tambahkan terong dan sambal, masak hingga matang dan kuah menyatu.",
+    "prepTime": "15 menit",
+    "cookTime": "30 menit",
+    "servings": 3,
+    "difficulty": "Sedang"
+  },
+  {
+    "id": "35",
+    "name": "Coto Makassar",
+    "image": "/images/coto-makassar.jpg",
+    "ingredients": [
+      "Daging sapi, jeroan (opsional), kacang tanah sangrai, bumbu rempah coto"
+    ],
+    "instructions": "Rebus daging/jeroan dengan bumbu hingga empuk. Saring kuah, taburkan kacang sangrai halus saat menyajikan.",
+    "prepTime": "15 menit",
+    "cookTime": "90 menit",
+    "servings": 4,
+    "difficulty": "Sedang"
+  },
+  {
+    "id": "36",
+    "name": "Sambel Tempoyak Palembang",
+    "image": "/images/sambel-tempoyak.jpg",
+    "ingredients": [
+      "Tempoyak (durian fermentasi), cabe, bawang, pete (opsional), gula"
+    ],
+    "instructions": "Haluskan tempoyak, cabai, bawang dan gula. Tambahkan pete jika suka, masak sebentar atau disajikan mentah.",
+    "prepTime": "10 menit",
+    "cookTime": "0–5 menit",
+    "servings": 4,
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "37",
+    "name": "Mangut Lele",
+    "image": "/images/mangut-lele.jpg",
+    "ingredients": [
+      "Lele, santan, cabai, bawang, bumbu kemiri, daun salam, jeruk nipis"
+    ],
+    "instructions": "Goreng lele, lalu masak dalam kuah santan berbumbu pedas. Tambah jeruk nipis saat matang. Sajikan panas.",
+    "prepTime": "15 menit",
+    "cookTime": "45 menit",
+    "servings": 4,
+    "difficulty": "Sedang"
+  },
+  {
+    "id": "38",
+    "name": "Rawon Daging",
+    "image": "/images/rawon.jpg",
+    "ingredients": [
+      "Daging sapi, kluwek, bawang merah, bawang putih, serai, daun jeruk"
+    ],
+    "instructions": "Tumbuk kluwek, masak dengan bawang dan rempah, tambahkan daging dan air. Rebus hingga daging empuk dan bumbu meresap.",
+    "prepTime": "20 menit",
+    "cookTime": "90 menit",
+    "servings": 4,
+    "difficulty": "Sedang"
+  },
+  {
+    "id": "39",
+    "name": "Sate Lilit Bali",
+    "image": "/images/sate-lilit.jpg",
+    "ingredients": [
+      "Ikan cincang, kelapa parut sangrai, bumbu Bali (bawang, ketumbar, kunyit), serai"
+    ],
+    "instructions": "Campur ikan cincang dengan kelapa dan bumbu, lilitkan pada serai. Bakar hingga matang dan harum.",
+    "prepTime": "15 menit",
+    "cookTime": "20 menit",
+    "servings": 3,
+    "difficulty": "Sedang"
+  },
+  {
+    "id": "40",
+    "name": "Asam Pedas Daging (Gajebo)",
+    "image": "/images/asam-pedas-daging.jpg",
+    "ingredients": [
+      "Daging sandung lamur, bumbu asam pedas (cabe, bawang, asam, jahe, kunyit)"
+    ],
+    "instructions": "Tumis bumbu hingga harum, masukkan daging dan air asam. Rebus hingga daging empuk dan kuah kental pedas-asam.",
+    "prepTime": "20 menit",
+    "cookTime": "60 menit",
+    "servings": 4,
+    "difficulty": "Sedang"
+  }
+]
